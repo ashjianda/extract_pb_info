@@ -13,17 +13,19 @@ Export your Pressbook as html
 - Go to the "Export" tab
 - Check "XHTML" in the "Other Formats" column and click "Export your Book"
 
-Rename the download as "book.html"
+Rename the download as `book.html`
 
-Ensure book.html is located in the same folder as .py files from Step 1
+Ensure `book.html` is located in the same folder as .py files from Step 1
 
 ## Running the Program:
 
+Copy the path of the folder you just created to your clipboard
+- Trick: Using your File Explorer, click the folder path on the top to copy it as text
+
 Open Command Prompt (Windows) or Terminal (Mac)
 	
-Navigate to folder with book.html and .py files from Step 1
-- Trick: Using your File Explorer, click the path on the top to copy your current path as text
-- Enter the following command to navigate to your folder: `cd "path/to/folder"`
+In the command prompt, navigate to the folder with `book.html` and .py files from Step 1
+- Enter the following command to navigate to your folder: `cd "path\to\folder"`
 - Example: `cd "C:\Users\yourname\Desktop\VCU\Extract_PB_Info"`
 
 Run the programs
