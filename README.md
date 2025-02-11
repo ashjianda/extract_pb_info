@@ -25,7 +25,7 @@ Copy the path of the folder you just created to your clipboard
 Open Command Prompt (Windows) or Terminal (Mac)
 	
 In the command prompt, navigate to the folder with `book.html` and .py files from Step 1
-- Enter the following command to navigate to your folder: `cd "path\to\folder"`
+- Paste the path you have copied into the following command: `cd "path\to\folder"`
 - Example: `cd "C:\Users\yourname\Desktop\VCU\Extract_PB_Info"`
 
 Run the programs
